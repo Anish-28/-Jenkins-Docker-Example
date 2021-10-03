@@ -1,0 +1,22 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "This is the an example of a simple Node app, which shows how to run a Jenkins pipeline that will create a Docker image and run tests inside it.\r This code was used in this [article](https://carltheperson.com/posts/jenkins-in-docker-and-tests-inside-own-container/)",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carltheperson/Jenkins-Docker-Example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carltheperson/Jenkins-Docker-Example/issues"
+  },
+  "homepage": "https://github.com/carltheperson/Jenkins-Docker-Example#readme"
+}
